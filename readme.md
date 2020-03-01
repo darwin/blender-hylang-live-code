@@ -1,3 +1,11 @@
+## The future is here
+
+I decided to experiment with embedding V8 into Blender and my current goal is to bring full ClojureScript support to Blender.
+
+Please follow that work in [darwin/blender-clojure](https://github.com/darwin/blender-clojure) project.
+
+---
+
 Live-coding [Blender](http://blender3d.org/) with [Hylang](http://hylang.org/).
 
 [![Quick screencast of Live-coding Blender with Hylang](docs/images/screencast.gif)](https://www.youtube.com/watch?v=vRBdqsaKmuU)
